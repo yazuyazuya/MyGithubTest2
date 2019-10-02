@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         textView.text = "text1"
+        textView2.text = "text2"
 
     }
 }
