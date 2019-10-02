@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         textView.text = "text1"
         textView2.text = "text2"
+        textView3.text = "text3"
 
     }
 }
